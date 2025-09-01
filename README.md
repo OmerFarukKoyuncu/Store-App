@@ -7,9 +7,9 @@ Store App, React ve Redux Toolkit kullanılarak geliştirilmiş modern bir e-tic
 ## 🖼 Önizleme
 
 ![Store App Önizleme](./storeappss/detail.JPG)
-(./storeappss/details.JPG)
-(./storeappss/products.JPG)
-(./storeappss/login.JPG)
+![Store App Önizleme](./storeappss/details.JPG)
+![Store App Önizleme](./storeappss/products.JPG)
+![Store App Önizleme](./storeappss/login.JPG)
 
 ---
 
