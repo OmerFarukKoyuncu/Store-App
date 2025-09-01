@@ -1,12 +1,35 @@
-# React + Vite
+# 🛒 Store App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Store App, React ve Redux Toolkit kullanılarak geliştirilmiş modern bir e-ticaret uygulamasıdır. Kullanıcılar ürünleri görüntüleyebilir, sepete ekleyebilir, sipariş verebilir ve üye olup giriş yapabilir.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼 Önizleme
 
-## Expanding the ESLint configuration
+![Store App Önizleme](./storeappss/detail.JPG)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚡ Özellikler
+- 🔹 Ürün listeleme
+- 🔹 Sepete ekleme ve sepet yönetimi
+- 🔹 Sipariş oluşturma
+- 🔹 Kullanıcı kaydı (Sign Up)
+- 🔹 Kullanıcı girişi (Login)
+- 🔹 Toast bildirimleri ile kullanıcı dostu arayüz
+- 🔹 Modern UI (Material-UI kullanıldı)
+
+---
+
+## 🛠 Kullanılan Teknolojiler
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [React Router](https://reactrouter.com/)
+- [Material-UI](https://mui.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Axios](https://axios-http.com/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
+
+---
+
