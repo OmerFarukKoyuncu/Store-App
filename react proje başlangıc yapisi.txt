@@ -1,3 +1,0 @@
-vite kurulur 
-layouts,pages,components klasörü oluşturulur.
-ilk yapılacak iş router yapısı kurmal (npm i react-router)
