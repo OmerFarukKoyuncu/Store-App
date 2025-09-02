@@ -21,6 +21,8 @@ Store App, React ve Redux Toolkit kullanılarak geliştirilmiş modern bir e-tic
 - 🔹 Kullanıcı girişi (Login)
 - 🔹 Toast bildirimleri ile kullanıcı dostu responsive arayüz
 - 🔹 Modern UI (Material-UI kullanıldı)
+- 🔹 Client-side caching ile performanslı veri yönetimi
+- 🔹 Cookie yönetimi ile kullanıcı oturum kontrolü
 
 ---
 
